@@ -13,6 +13,7 @@ Docker を使って構築する場合 https://github.com/yk-st/pyspark_settings/
 
 # 変更履歴
 2022 5/4: sparkのライブラリバージョンを3.2.1へ変更
+2022 8/25: sparkのライブラリバージョンを3.2.2へ変更
 
 # 免責事項
 
